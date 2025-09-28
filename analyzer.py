@@ -52,3 +52,5 @@ print(f'{len(obj.log_data)} addresses found.')
 
 for x in obj.log_data.keys():
     print(f'{x}')
+
+# What to add: Better display of IPAddresses & stats
